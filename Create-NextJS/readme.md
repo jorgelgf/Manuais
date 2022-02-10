@@ -27,3 +27,10 @@ conteúdo:
     "plugins": [["styled-components", { "ssr": true }]]
 }
 ```
+
+## Também foi adicionado componente para renderizar apenas uma vez, criando um arquivo dentro da pasta pages de nome: _documents.tsx
+arquivo fica configurado no server side, persistindo configurações na página para o styled component.
+Link das informações do arquivo _documents.tsx: <a href="https://raw.githubusercontent.com/vercel/next.js/canary/examples/with-styled-components/pages/_document.js" target="_blank">Clique aqui</a>
+
+
+### Fonte: <a href="https://github.com/vercel/next.js/tree/canary/examples/with-styled-components">link</a>
